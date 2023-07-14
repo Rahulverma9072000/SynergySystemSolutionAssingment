@@ -29,3 +29,5 @@ int main(){
     cout<<reverseNum(num)<<endl;
     return 0;
 }
+// Time Complexity : O(number of digits) : O(logn) 
+// Space Complexity : O(1)

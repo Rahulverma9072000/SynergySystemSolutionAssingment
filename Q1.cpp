@@ -25,3 +25,6 @@ int main() {
     cout << "Product of the digits: " << res << endl;
     return 0;
 }
+
+// Time Complexity : O(number of Digits) : O(logn)
+// Space Complexity : O(1)

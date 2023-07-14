@@ -34,3 +34,5 @@ int main(){
     }cout<<endl;
     return 0;
 }
+//Time Complexity : O(numer of digits) ; O(logn)
+//Space Complexity : O(1)

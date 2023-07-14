@@ -73,3 +73,5 @@ int main()
     cout << endl;
     return 0;
 }
+// Time Complexity : O(nlogn) : n is size of array 
+// Space Complexity : O(n)

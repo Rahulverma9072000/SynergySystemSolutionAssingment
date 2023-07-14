@@ -40,3 +40,5 @@ int main(){
     cout<<"Sum of N Primes are : "<<SumofNPrimes(n)<<endl;
     return 0;
 }
+// Time Complexity : O(n*sqrt(n))
+// Space Complexity : O(1)

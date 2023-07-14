@@ -23,3 +23,5 @@ int main(){
     getElements(arr,n);
     return 0;
 }
+// Time Complexity : O(n) , n is size of array 
+// Space Complexity : O(1)

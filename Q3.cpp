@@ -25,3 +25,5 @@ int main(){
     cout<<"Greatest of all 5 Numbers is "<<res<<endl;
     return 0;
 }
+// Time Complexity : O(1)
+// Space Complexity : O(1)

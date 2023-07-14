@@ -34,3 +34,5 @@ int main(){
     cout<<"First Minimum : "<<firstMin<<" Second Minimum : "<<secondMin<<endl;
     return 0;
 }
+// Time Complexity : O(n) : n is size of array
+// Space Complexity : O(1)
